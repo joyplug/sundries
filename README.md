@@ -1,5 +1,8 @@
-# Table of contents
+# Front Page
 
-* [Front Page](README.md)
-* [FastAPI](fastapi.md)
-* [PyScript](pyscript.md)
+1. [Front Page](./)
+2. [FastAPI](fastapi.md)
+3. [PyScript](pyscript.md)
+
+
+
